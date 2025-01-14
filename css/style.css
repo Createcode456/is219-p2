@@ -97,7 +97,6 @@ Make it animate nicely. You'll need CSS3 for this*/
 	transform:rotate(180deg);
 }
 
-
 /*Add CSS styles to rotate the element 270deg
 Make it animate nicely. You'll need CSS3 for this*/
 .rot270 {
@@ -111,4 +110,3 @@ Make it animate nicely. You'll need CSS3 for this*/
 	transition: all 1s ease;
 
 }
-
