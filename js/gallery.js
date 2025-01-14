@@ -66,7 +66,7 @@ var mJson;
 
 // URL for the JSON to load by default
 // Some options for you are: images.json, images.short.json; you will need to create your own extra.json later
-var mUrl = 'images.json';
+var mUrl;
 
 function fetchJSON()
 {
@@ -108,7 +108,22 @@ $(document).ready( function() {
 	
 	// This initially hides the photos' metadata information
 	$('.details').eq(0).hide();
-	
+	$( "#nextPhoto").position({
+		my:"right bottom",
+		at: "right bottom",
+		of:"#nav"
+	});
+
+	const urlParams = URLSearchParams(window.location.search)
+	for(const[key, value] of urlParams){
+		console.log(`${key}:${vaulue}`);
+		mUrl = value;
+	}
+	if(mUrl == undefined)
+	{
+		mUrl = 'images.json';
+	}
+	fetchJSON();
 });
 
 window.addEventListener('load', function() {
