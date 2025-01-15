@@ -1,82 +1,82 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "img/places/maxresdefault.jpg",
+            "imgLocation": "Capemay to Deleware",
+            "description": "CapeMay Ferry",
+            "date": "01/15/2025"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/places/South Carolina.jpg",
+            "imgLocation": "South Carolina",
+            "description": "Surfside Pier",
+            "date": "01/16/2025"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/places/met theater.jpg",
+            "imgLocation": "NYC",
+            "description": "Met Theater",
+            "date": "01/17/2025"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/places/connecticut.jpg",
+            "imgLocation": "Mystic Connecticut",
+            "description": "Lighthouse",
+            "date": "01/18/2025"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/places/boston.jpg",
+            "imgLocation": "Boston",
+            "description": "Boston Aquariam",
+            "date": "01/19/2025"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgPath": "img/places/Ulua beach sunset.jpg",
+            "imgLocation": "Hawii",
+            "description": "Ulau Beach Sunset",
+            "date": "01/20/2025"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgPath": "img/places/chincoteague.jpg",
+            "imgLocation": "Virginia",
+            "description": "Chincoteague Island",
+            "date": "01/21/2025"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/places/fish pier.jpg",
+            "imgLocation": "Ocean City, Maryland",
+            "description": "Fish Pier",
+            "date": "01/22/2025"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/places/london.jpg",
+            "imgLocation": "London",
+            "description": " London Skyline",
+            "date": "01/23/2025"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
+            "imgPath": "img/places/vegas.jpg",
+            "imgLocation": "Vegas",
+            "description": "Vegas Skyline",
+            "date": "01/24/2025"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
+            "imgPath": "img/places/kansas-state-capitol.jpg",
+            "imgLocation": "Kansas",
+            "description": "Kansas State Capital",
+            "date": "01/25/2025"
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
+            "imgPath": "img/places/NewHope.jpg",
+            "imgLocation": "New Hope",
+            "description": "Bucks County Play House",
+            "date": "01/26/2025"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "img/places/Texas-State-Capitol_.jpg",
+            "imgLocation": "Texas",
+            "description": "Texas State Capital",
+            "date": "01/27/2025"
         }
   ]
 }
